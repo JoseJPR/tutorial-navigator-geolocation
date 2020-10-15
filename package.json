@@ -1,0 +1,24 @@
+{
+  "name": "tutorial-pwa-geolocation",
+  "version": "1.0.0",
+  "description": "📍 Get with JavaScript the real Geographic Location of a user. Improve the user experience with the Geolocation.",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseJPR/tutorial-pwa-geolocation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseJPR/tutorial-pwa-geolocation/issues"
+  },
+  "homepage": "https://github.com/JoseJPR/tutorial-pwa-geolocation#readme",
+  "dependencies": {
+    "fastify": "^3.5.0",
+    "fastify-static": "^3.2.0"
+  }
+}
